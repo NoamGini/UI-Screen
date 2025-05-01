@@ -5,7 +5,7 @@
 
 ```bash
 git clone https://github.com/NoamGini/UI-Screen.git
-cd AWS-CPU-Monitor
+cd UI-Screen
 ```
 
 ### dependencies installation
