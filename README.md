@@ -20,4 +20,5 @@ npm install
 npm start
 ```
 
-<img width="140" alt="pic of the ui screen" src="https://github.com/user-attachments/assets/955a789d-e179-4179-83d6-ccf1d21eed3c" />
+<img width="145" alt="1" src="https://github.com/user-attachments/assets/6666700c-ae00-4599-aa39-4e28ca8ab437" />
+
