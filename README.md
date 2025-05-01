@@ -13,7 +13,6 @@ cd UI-Screen
 ```
 npm install
 ```
-<img width="140" alt="pic of the ui screen" src="https://github.com/user-attachments/assets/955a789d-e179-4179-83d6-ccf1d21eed3c" />
 
 ### Running the Application
 
@@ -21,3 +20,4 @@ npm install
 npm start
 ```
 
+<img width="140" alt="pic of the ui screen" src="https://github.com/user-attachments/assets/955a789d-e179-4179-83d6-ccf1d21eed3c" />
