@@ -20,5 +20,5 @@ npm install
 npm start
 ```
 
-<img width="400" alt="1" src="https://github.com/user-attachments/assets/6666700c-ae00-4599-aa39-4e28ca8ab437" />
+<img width="200" alt="1" src="https://github.com/user-attachments/assets/6666700c-ae00-4599-aa39-4e28ca8ab437" />
 
